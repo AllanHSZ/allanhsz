@@ -1,8 +1,8 @@
 ## Allan Henrique
 
-💻 Estou trabalhando como fullstack com foco maior para o front-end.
+💻 Front-end Development.
 <br>
-📚 Atualmente estou estudando React, Next.js e UI/UX
+📚 Atualmente aprendendo mais sobre Next.js 13 e UI/UX.
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/allanhsz/" target="_blank">
